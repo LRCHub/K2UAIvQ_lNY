@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "High On Life",
+  "base_artist": "Martin Garrix",
+  "createdAt": "2026-02-19T10:32:57.217154Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "High On Life",
+      "artist": "4 Strings",
+      "has_synced": false,
+      "path": "select/01_High_On_Life_4_Strings.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "High On Life",
+      "artist": "Gene Vincent",
+      "has_synced": false,
+      "path": "select/02_High_On_Life_Gene_Vincent.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "High On Life",
+      "artist": "Shalamar",
+      "has_synced": true,
+      "path": "select/03_High_On_Life_Shalamar.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "High On Life",
+      "artist": "Darius Rucker",
+      "has_synced": false,
+      "path": "select/04_High_On_Life_Darius_Rucker.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "High On Life (feat. Bonn)",
+      "artist": "Martin Garrix feat. Bonn",
+      "has_synced": true,
+      "path": "select/05_High_On_Life_(feat._Bonn)_Martin_Garrix_feat._Bonn.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "High On Life",
+      "artist": "Martin Garrix feat. Bonn",
+      "has_synced": true,
+      "path": "select/06_High_On_Life_Martin_Garrix_feat._Bonn.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "High On Life.",
+      "artist": "Martin Garrix Feat. Bonn",
+      "has_synced": true,
+      "path": "select/07_High_On_Life._Martin_Garrix_Feat._Bonn.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "High On Life (feat. Bonn)",
+      "artist": "Martin Garrix, Bonn",
+      "has_synced": true,
+      "path": "select/08_High_On_Life_(feat._Bonn)_Martin_Garrix,_Bonn.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "High on Life",
+      "artist": "Smash Into Pieces",
+      "has_synced": true,
+      "path": "select/09_High_on_Life_Smash_Into_Pieces.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "High on Life (feat. Bonn)",
+      "artist": "Martin Garrix",
+      "has_synced": true,
+      "path": "select/10_High_on_Life_(feat._Bonn)_Martin_Garrix.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "High On Life",
+      "artist": "Martin Garrix",
+      "has_synced": true,
+      "path": "select/11_High_On_Life_Martin_Garrix.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "High On Life",
+      "artist": "Martin Garrix, Bonn",
+      "has_synced": true,
+      "path": "select/12_High_On_Life_Martin_Garrix,_Bonn.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "High On Life",
+      "artist": "Martin Garrix, Bonn",
+      "has_synced": true,
+      "path": "select/13_High_On_Life_Martin_Garrix,_Bonn.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "High on Life",
+      "artist": "Afinity feat. Amidy & Egzod",
+      "has_synced": true,
+      "path": "select/14_High_on_Life_Afinity_feat._Amidy_&_Egzod.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "High on Life",
+      "artist": "Afinity",
+      "has_synced": true,
+      "path": "select/15_High_on_Life_Afinity.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "High on Life",
+      "artist": "Martin Garrix feat. Bonn",
+      "has_synced": true,
+      "path": "select/16_High_on_Life_Martin_Garrix_feat._Bonn.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "High on Life",
+      "artist": "Fireboy DML",
+      "has_synced": true,
+      "path": "select/17_High_on_Life_Fireboy_DML.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "High On Life",
+      "artist": "Martin Garrix",
+      "has_synced": false,
+      "path": "select/pl_01_High_On_Life_Martin_Garrix.txt"
+    }
+  ]
+}
